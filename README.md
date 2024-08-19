@@ -12,7 +12,3 @@
 ### API:
 
 - [Сервис аренды велосипедов](https://github.com/VitaliyKozhushko/rent_bike)
-
-### Telegram Bots
-
-- [> 1024 знаков в подписи к фото](https://github.com/VitaliyKozhushko/tel-bot-1)
