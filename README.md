@@ -11,4 +11,4 @@
 
 ### API:
 
-- [Сервис аренды велосипедов](https://github.com/VitaliyKozhushko/rent_bike)
+- [API сервиса аренды велосипедов](https://github.com/VitaliyKozhushko/rent_bike)
