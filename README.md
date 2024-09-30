@@ -19,3 +19,6 @@
 
 ### Cartography
 - [Отображение полигонов на карте и сохранение в БД](https://github.com/VitaliyKozhushko/airspace_restriction_zones.git)
+
+### Medical data (FHIR standard)
+- [Список пациентов с записями на прием](https://github.com/VitaliyKozhushko/UIMS.git)
