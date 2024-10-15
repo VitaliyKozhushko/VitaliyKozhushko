@@ -22,3 +22,6 @@
 
 ### Medical data (FHIR standard)
 - [Список пациентов с записями на прием](https://github.com/VitaliyKozhushko/UIMS.git)
+
+### Finance
+- [Управление личными финансами](https://github.com/VitaliyKozhushko/symple-financial-management-system)
